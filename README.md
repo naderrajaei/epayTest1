@@ -1,7 +1,4 @@
 # epayTest1
- ATM Algorithm 
-
-
 
 using System;
 using System.Collections.Generic;
